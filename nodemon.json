@@ -1,0 +1,7 @@
+{
+    "ignore": ["*.json"],
+    "watch": ["*.*"],
+    "ext": "js,mjs,cjs",
+    "script": "index.js"
+  }
+  
